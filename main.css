@@ -363,7 +363,8 @@ overflow:hidden;
 position:relative;
 display: flex;
 flex-direction:column; 
-
+background:url(./24h.png) no-repeat 28px 8px;
+  background-size: 98% ;
 
 }
 
