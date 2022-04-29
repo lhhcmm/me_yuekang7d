@@ -309,7 +309,8 @@ overflow:hidden;
 position:relative;
 display: flex;
 flex-direction:column; 
-
+background:url(./24h.png) no-repeat 0px 8px;
+  background-size: 98% ;
 }
 
 .second-main_1_hsjc{
@@ -321,7 +322,7 @@ min-height:60px;
 top: 3px;
 left: 15px;
   border:0px solid red;
-background:url(./24h.png) no-repeat 0px 8px;
+background:url(./.png) no-repeat 0px 8px;
   background-size: 95% ;
   
 }
