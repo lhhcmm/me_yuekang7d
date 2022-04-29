@@ -371,6 +371,13 @@ background:url(./qcjz.png) no-repeat 0px 0px;
   
 }
 
+.ym_date{
+  position: absolute;
+  bottom: 16px;
+width:100%;
+ height: 30px;
+  /* color: black;*/
+}
 
 
 
