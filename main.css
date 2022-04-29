@@ -335,7 +335,7 @@ top: 40px;
 left: 25px;
   border:0px solid red;
 background:url(./24h.png) no-repeat 28px 8px;
-  background-size: 50% ;
+  background-size: 100% ;
   
 }
 
@@ -363,8 +363,7 @@ overflow:hidden;
 position:relative;
 display: flex;
 flex-direction:column; 
-background:url(./24h.png) no-repeat 28px 8px;
-  background-size: 98% ;
+
 
 }
 
