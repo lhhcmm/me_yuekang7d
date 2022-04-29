@@ -299,7 +299,7 @@ justify-content : space-between;
 .second-main_1{
   
 width:170px;
-min-height:120px;
+min-height:130px;
 background-color:#fff;
 border-radius:0px;
 -webkit-box-shadow:0 0 0 0 #dedede;
@@ -309,7 +309,7 @@ overflow:hidden;
 position:relative;
 display: flex;
 flex-direction:column; 
-background:url(./24h.png) no-repeat 0px 8px;
+background:url(./24h.png) no-repeat 0px 0px;
   background-size: 100% ;
 }
 
