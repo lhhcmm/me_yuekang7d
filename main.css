@@ -182,7 +182,7 @@ background:url(./qrt.png) no-repeat;
   
 }
 
-.t2_3_bg{
+#.t2_3_bg{
   
   position: absolute;
   width: 185.5px;
@@ -195,7 +195,7 @@ background:url(./qrt.png) no-repeat;
   border:0px solid red;
   
 }
-.t2_3{
+#.t2_3{
   
   position: absolute;
   width: 101px;
@@ -403,7 +403,7 @@ from {
 }
 .after_bg {
   
-  height: 300px;
+  height: 513px;
   width: 100%;
   
 background:url(./end_1.jpg) no-repeat ;
