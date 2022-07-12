@@ -51,7 +51,7 @@ animation-fill-mode:backwards;
 /*margin-top:-.45rem;*/
 margin-top:0rem;
 /*设置往上移*/
-height:680px;
+height:480px;
 /*设置背景滚动高度*/
 
 position:relative
@@ -209,7 +209,7 @@ background:url(./lm.png) no-repeat 25px 2px;
   border:0px solid red;
   
 }
-.top_3_main{
+#.top_3_main{
   
   position: absolute;
   width: 100%;
@@ -222,7 +222,7 @@ flex-direction:row;
 justify-content : space-between;
 }
 
-.top_3_main_1{
+#.top_3_main_1{
   position: absolute;
 width:170px;
 min-height:60px;
@@ -232,7 +232,7 @@ background:url(./jkxx.png) no-repeat 40px 17px;
   
   
 }
-.top_3_main_m{
+#.top_3_main_m{
   position: absolute;
 width:10px;
 min-height:60px;
@@ -245,7 +245,7 @@ background:url(./s.png) no-repeat -6px -8px;
   
 }
 
-.top_3_main_2_s{
+#.top_3_main_2_s{
   
   position: absolute;
 width:20px;
@@ -258,7 +258,7 @@ background:url(./sys.png) no-repeat 0px 8px;
   
   
 }
-.top_3_main_2_zi{
+#.top_3_main_2_zi{
   position: absolute;
 width:80px;
 min-height:60px;
@@ -271,7 +271,7 @@ font-size: 15px;
   
 }
 
-.top_3_main_2{
+#.top_3_main_2{
   position: absolute;
   right: 0px;
 width:170px;
@@ -281,7 +281,7 @@ min-height:60px;
 
 
 
-.second_main{
+#.second_main{
 width:350px;
 min-height:100px;
 
@@ -295,10 +295,10 @@ justify-content : space-between;
 
 
 
-.second-main_1{
+#.second-main_1{
   
 width:170px;
-min-height:130px;
+min-height:150px;
  /*background-color:#fff; */
 border-radius:0px;
 -webkit-box-shadow:0 0 0 0 #dedede;
@@ -323,7 +323,7 @@ width:100%;
 }
 
 
-.second-main_2{
+#.second-main_2{
   
 width:170px;
 min-height:130px;
@@ -343,7 +343,7 @@ flex-direction:column;
 
 
 
-.second-main_1_xgym{
+#.second-main_1_xgym{
 
   
   position: absolute;
@@ -356,7 +356,7 @@ background:url(./xgym.png) no-repeat 0px 8px;
   background-size: 75% ;
   
 }
-.second-main_1_qcjz{
+#.second-main_1_qcjz{
 
   
   position: absolute;
@@ -370,7 +370,7 @@ background:url(./qcjz.png) no-repeat 0px 0px;
   
 }
 
-.ym_date{
+#.ym_date{
   position: absolute;
   bottom: 16px;
 width:100%;
@@ -403,7 +403,7 @@ from {
 }
 .after_bg {
   
-  height: 513px;
+  height: 857px;
   width: 100%;
   
 background:url(./end_1.jpg) no-repeat ;
